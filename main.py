@@ -150,7 +150,7 @@ def main(input_file, output_file):
 
 
 # === Execute Simulation ===
-# Replace 'asteroids_test.txt' and 'collisions_test.txt' with your actual file paths if needed
+# Replace 'asteroids.txt' and 'collisions.txt' with your actual file paths if needed
 input_file = "sample_output/asteroids.txt"
 output_file = "sample_output/collisions.txt"
 main(input_file, output_file)
